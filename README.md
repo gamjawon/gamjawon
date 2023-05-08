@@ -1,4 +1,6 @@
-### Hi there 👋
+### GAMJAWON'S PROFILE
+
+#Hello🙌, I'm gamja. I majored in Computer Science in Hankuk University of Foreign Studies. 
 
 <!--
 **gamjawon/gamjawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
