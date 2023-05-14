@@ -1,6 +1,6 @@
 ### GAMJAWON'S PROFILE
 
-Hello🙌, I'm gamja. <br>
+Hello🙌, I'm gamjawon. <br>
 I majored Computer Science in Hankuk University of Foreign Studies. 
 
 <!--
