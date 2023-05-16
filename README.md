@@ -4,7 +4,7 @@ Hello🙌, I'm gamjawon. <br>
 I majored Computer Science in Hankuk University of Foreign Studies. 
 
 if you want to be close with me, click the icon below =D <br><br>
-<a href="https://www.instagram.com/jiwon_ten/" target="_blank"><img src="https://img.shields.io/badge/jiwon_ten-E4405F?style=?style=flat&logo=appveyor&logoColor=E4405F"/></a>
+<a href="https://www.instagram.com/jiwon_ten/" target="_blank"><img src="https://img.shields.io/badge/-E4405F?Instargramstyle=?style=for-the-badge&logo=appveyor&logoColor=E4405F"/></a>
 
 <!--
 **gamjawon/gamjawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
