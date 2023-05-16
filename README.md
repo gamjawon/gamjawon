@@ -5,7 +5,7 @@ I majored Computer Science in Hankuk University of Foreign Studies.
 
 if you want to be close with me, click the icon below =D <br>
 
-<img src="[https://img.shields.io/badge/](https://www.instagram.com/jiwon_ten/)Instar-E4405F?style=&logo=instagram&logoColor=E4405F"/>
+<img src="[https://img.shields.io/badge/](https://www.instagram.com/jiwon_ten/)Instar-E4405F?&logo=instagram&logoColor=E4405F"/>
 <!--
 **gamjawon/gamjawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
