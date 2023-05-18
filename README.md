@@ -3,7 +3,7 @@
 Hello🙌, I'm gamjawon. <br>
 I majored Computer Science in Hankuk University of Foreign Studies. 
 
-if you want to be close with me, click the icon below =D <br>
+if you want to be close with me, click the icon below =D <br>  
 
 <a href="https://www.instagram.com/jiwon_ten"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jiwon_ten"/></a>
 <br><br>
