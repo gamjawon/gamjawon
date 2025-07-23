@@ -8,9 +8,11 @@
   
 ## 🚀 Featured Projects
 - **[Stock Auto-Trading System](https://github.com/prometheus-11team)**  
-  - DRL 기반 주식 자동매매 시스템 설계 및 전체 모델 성능 최적화 
+  - **Tech:** Python, PyTorch, FinRL, Transformer, FinBert 
+  - DRL 기반 주식 자동매매 시스템 설계, 구축 및 백테스트 성능 최적화   
 - **[Medical Image Compression Model]**  
-  - Transformer & VAE 기반 MRI 영상 압축 연구  
+  - **Tech:** PyTorch, Transformer, CNN
+ 
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
