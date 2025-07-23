@@ -2,7 +2,7 @@
 
 - 💻 Undergraduate Researcher @ LAB HAI (학부 연구생)  
 - 🔥 Member of Prometheus Club (5기)  
-- 🎓 Majored in Computer Science, Hankuk University of Foreign Studies  
+- 🎓 Computer Science Undergraduate, Hankuk University of Foreign Studies 
 - 🚀 Passionate about AI, Reinforcement Learning, and Quant Trading
 
   
